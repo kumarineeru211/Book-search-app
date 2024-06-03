@@ -1,8 +1,30 @@
-# React + Vite
+# Book Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Book Search App built with React that allows users to search for books using the Open Library API and add them to a personal bookshelf.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search books by name.
+- Display search results in real-time as the user types.
+- Add books to a personal bookshelf.
+- Persistent bookshelf using localStorage.
+- Responsive design.
+
+
+
+## Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the repository
+
+```sh
+git clone (https://github.com/kumarineeru211/Book-search-app.git)
+cd book-search-app
+
+##  Install dependencies
+ npm install
+
+
+## Start the development server
+ npm run dev
