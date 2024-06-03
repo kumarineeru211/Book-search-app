@@ -20,7 +20,7 @@ Follow these steps to set up the project locally:
 
 ```sh
 git clone (https://github.com/kumarineeru211/Book-search-app.git)
-cd book-search-app
+cd Book-lib
 
 ##  Install dependencies
  npm install
